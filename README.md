@@ -1,4 +1,4 @@
-# Wadi-Degla-Home-page
+#  responsive Wadi-Degla-Home-page
 Desktop Version             |  Mobile Version
 :-------------------------:|:-------------------------:
 ![](images/desktop-version.png)  |  ![](images/mobile-version.png)
